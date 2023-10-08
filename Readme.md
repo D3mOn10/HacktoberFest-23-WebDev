@@ -138,15 +138,6 @@ git push -u origin <your_branch_name>
 **15.** Voila :exclamation: You have made a PR to the Akshima-Ghai/OneEducationalWebsiteForAll project :boom: . Sit back patiently and relax while the project maintainers review your PR. Please understand, at times the time taken to review a PR can vary from a few hours to a few days.
 <p align="center"><img src="https://media.tenor.com/images/b562ddcfb131e962f9dfa01bd32a30d1/tenor.gif" width=30%></p>
 
-
-
-# License
-
-<p align="center">
-<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/blob/main/LICENSE">
-<img width=35% src="https://media0.giphy.com/media/3ornjXbo3cjqh2BIyY/200.gif"></p>
-<h5 align="center"><b>MIT License</b></a>  
-  
 ## Contributors
 <a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dsc-gtbit/HacktoberFest-23-WebDev" />
